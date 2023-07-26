@@ -4,4 +4,6 @@ My custom tool for keeping track of notes and tasks to do.
 
 To make changes: Modify the task_master.py file and run the create_exe.py file.
 - Note: This will make a 'dist' and 'build' directory, open the 'dist' directory to get your custom executable
+
+
 To use default: Take the .exe and run it
